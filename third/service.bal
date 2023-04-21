@@ -3,8 +3,8 @@ import ballerina/http;
 # A service representing a network-accessible API
 # bound to port `9090`.
 @display {
-	label: "second",
-	id: "second-777593f0-3afd-4461-924d-5323d5498736"
+	label: "third",
+	id: "third-895e222f-c92e-48a4-a04f-380a959f31db"
 }
 service / on new http:Listener(9090) {
 
